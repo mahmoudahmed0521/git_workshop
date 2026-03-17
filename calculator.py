@@ -1,5 +1,7 @@
 # calculator.py - Simple calculator for Git workshop
 #  assume this a multiply func
+
+#  this is a  new_feature
 def add(a, b):
 """Return the sum of a and b."""
 return a + b
